@@ -1,0 +1,2 @@
+# FnorexDev
+A powerful DiscordBot
